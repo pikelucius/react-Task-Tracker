@@ -6,6 +6,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Npm instructions ->
+
+### npm install / i
+
+Installs the dependencies for the app.
+
+### npm run server
+
+Starts json-server as a backend-api on port 5000.
+Saves data in a file (db.json), like a database.
+
+### npm build, npm start, npm test, npm eject
+
+See explanations for yarn ...
+
+
+## Yarn instructions ->
+
 ### `yarn start`
 
 Runs the app in the development mode.\
